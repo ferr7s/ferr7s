@@ -1,25 +1,8 @@
+
 ### Hi!!! I'm Matheus Ferrari
-
-<!--
-**ferr7s/ferr7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front-end Developement...
 - 🌱 I’m currently learning to become a Full Stack Developer...
-- 📫 Linkedin: https://www.linkedin.com/in/matheus-ferrari-589141189 ...
--->
-### Hi!!! I'm Matheus Ferrari
 
-<!--
-**ferr7s/ferr7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front-end Developement...
-- 🌱 I’m currently learning to become a Full Stack Developer...
-- 📫 Linkedin: https://www.linkedin.com/in/matheus-ferrari-589141189 ...
--->
 
 <div align="center">
   <a href="https://github.com/ferr7s">
@@ -33,7 +16,6 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gengar-pic" height="150" style="border-radius:50px;"        src="http://www.animalhi.com/thumbnails/detail/20121026/pokemon%20gengar%201920x1080%20wallpaper_www.animalhi.com_4.jpg"> 
 </div>
-
   
     ##
   
