@@ -17,7 +17,7 @@
   <img align="right" alt="Gengar-pic" height="150" style="border-radius:50px;"        src="http://www.animalhi.com/thumbnails/detail/20121026/pokemon%20gengar%201920x1080%20wallpaper_www.animalhi.com_4.jpg"> 
 </div>
   
-    ##
+  <hr>
   
   <div>
   <a href = "mailto:ferraridamasceno27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
