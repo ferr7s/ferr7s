@@ -1,7 +1,7 @@
 
 ### Hi!!! I'm Matheus Ferrari
 - 🔭 I’m currently working on Front-end Developement...
-- 🌱 I’m currently learning to become a Full Stack Developer at Kenzie Academy
+- 🌱 I’m currently learning to become a Web Developer
 
 
 <div align="center">
