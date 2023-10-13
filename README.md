@@ -1,8 +1,5 @@
 
 ### Hi!!! I'm Matheus Ferrari
-- 🔭 I’m currently working on Front-end Developement...
-- 🌱 I’m currently learning to become a Web Developer
-
 
 <div align="center">
   <a href="https://github.com/ferr7s">
