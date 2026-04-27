@@ -1,8 +1,3 @@
-<p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
-</p>
-
-
 <h1 align="center">Hey there! I'm Matheus Ferrari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
@@ -71,9 +66,3 @@ I'm a TSU in Computer Science, recently graduated from the Jesús Obrero Univers
 <a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
-
------
-
-Credit: [MedinaPedroDev](https://github.com/MedinaPedroDev)
-
-Last Edited on: 03/03/2025
