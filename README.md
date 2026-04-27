@@ -56,21 +56,9 @@ I’m a Software Developer and Cybersecurity Intern based in Brazil 🇧🇷. I 
 ---
 
 ### ⚙️ &nbsp;GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ferr7s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferr7s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ferr7s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr7s&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/ferr7s/ferr7s/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
-</p>
-
----
+![ferr7s's Stats](https://github-readme-stats.vercel.app/api?username=ferr7s&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![ferr7s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferr7s&theme=midnight-purple&hide_border=true)
+![ferr7s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr7s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
