@@ -58,12 +58,3 @@ I’m a Software Developer and Cybersecurity Intern based in Brazil 🇧🇷. I 
 ![ferr7s's Stats](https://github-readme-stats.vercel.app/api?username=ferr7s&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![ferr7s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferr7s&theme=midnight-purple&hide_border=true)
 ![ferr7s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr7s&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-<p>
-<a href="https://www.linkedin.com/in/matheus-ferrari-589141189">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ferraridamasceno27@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
