@@ -50,8 +50,7 @@ I’m a Software Developer and Cybersecurity Intern based in Brazil 🇧🇷. I 
 
 - Visual Studio Code  
 - Obsidian (knowledge management)  
-- Canva  
-
+- Codex
 ---
 
 ### ⚙️ &nbsp;GitHub Stats
