@@ -33,8 +33,7 @@ I’m a Software Developer and Cybersecurity Intern based in Brazil 🇧🇷. I 
 **DevOps & Tools**
 - Docker / Docker Compose  
 - Git & GitHub  
-- Linux (WSL/Ubuntu)  
-- Postman  
+- Linux (WSL/Ubuntu)    
 
 ---
 
