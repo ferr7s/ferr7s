@@ -14,7 +14,6 @@ I’m a Software Developer and Cybersecurity Intern based in Brazil 🇧🇷. I 
   - Web3 & DeFi concepts  
 - 🧠 Interested in cybersecurity, observability, and scalable architectures  
 - 💬 Open to discussions about tech, security, and development  
-- 🥋 BJJ practitioner  
 
 ---
 
